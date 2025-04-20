@@ -17,12 +17,12 @@ Feel free to click on the links to be redirected to the various projects outline
 
 [Power BI Dashboards](#Power-BI-Dashboards)
   - [Contractor Expense Tracking](#contractor-expense-tracking)
-  - [Ottawa Public Library Holds](#Ottawa-Public-Library-Holds (2022))
-  - [Retail Price of Beef in Canada](#Retail-Price-of-Beef-in-Canada)
+  - [Ottawa Public Library Holds](#ottawa-public-library-holds-2022)
+  - [Retail Price of Beef in Canada](#retail-price-of-beef-in-canada)
   - [Retail Price of Produce in Canada](#Retail-Price-of-Produce-in-Canada)
     
 [Tableau Dashboards](#Tableau-Dashboards)
-  - [Bike Thefts in Ottawa](#Bike-Thefts-in-Ottawa)
+  - [Bike Thefts in Ottawa](#bike-thefts-in-ottawa)
 
 
 ### _Power BI Dashboards_
@@ -41,7 +41,7 @@ This Power BI dashboard shows several reports with information about the most po
 
 
 
-#### <ins>Retail Price of Beef in Canada Report</ins>🐄
+#### <ins>Retail Price of Beef in Canada</ins>🐄
 A dashboard outlining the retail price of various types/cuts of beef throughout the years in Canada. There's additional focus on 2023 to outline the average price of beef in that year and comparison of the price between the Canadian provinces
 ![PowerBI_RetailPrice_2](https://github.com/user-attachments/assets/2e3ddf47-b9d2-4a51-bb1a-9c7e5dd5f4bf)
 
