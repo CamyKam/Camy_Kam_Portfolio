@@ -14,6 +14,7 @@ Feel free to click on the links to be redirected to the various projects outline
 | **Javascript**  |<br> - **Generate YouTube Playlists through API** 📺: This project utilizes an API key from Youtube to automatically generate a playlist on my YT account and have videos added based on the search term I want. I can specify a search term, how many videos I'd like to add to a playlist using that search term, and the title of the generated playlist <br>https://github.com/CamyKam/Youtube-API-Project <br>|
 
 ## Data Dashboards
+
 [Power BI Dashboards](#Power-BI-Dashboards)
   - [Contractor Expense Tracking](#Contractor-Expense-Tracking)
   - [Ottawa Public Library Holds](#Ottawa-Public-Library-Holds (2022))
@@ -22,6 +23,7 @@ Feel free to click on the links to be redirected to the various projects outline
     
 [Tableau Dashboards](#Tableau-Dashboards)
   - [Bike Thefts in Ottawa](#Bike-Thefts-in-Ottawa)
+
 
 ### Power BI Dashboards
 #### Contractor Expense Tracking
@@ -35,7 +37,8 @@ The dashboard also tracks how much budget is remaining, the calculated burnrate,
 This Power BI dashboard shows several reports with information about the most popular library titles based on holds placed. The lists show us what the top 10 most popular English and French titles were, while the graphs breakdown the number of holds based on language, format, and genre. Clicking on specific sections of the graphs would cross filter the tables, so you can see the 10 top titles for English Nonfiction for example:
 ![OPL_holds](https://github.com/user-attachments/assets/9f21792f-1083-445b-abdb-ad3cdfade724)
 
-#### Retail Price of Beef in Canada
+
+#### Retail Price of Beef in Canada Report
 A dashboard outlining the retail price of various types/cuts of beef throughout the years in Canada. There's additional focus on 2023 to outline the average price of beef in that year and comparison of the price between the Canadian provinces
 ![PowerBI_RetailPrice_2](https://github.com/user-attachments/assets/2e3ddf47-b9d2-4a51-bb1a-9c7e5dd5f4bf)
 
